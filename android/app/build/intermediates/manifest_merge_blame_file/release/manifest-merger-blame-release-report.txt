@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.makefamousapp.phukienthoitrang"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:5:5-64
+12-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:5:22-62
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:6:5-80
+13-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:6:22-78
+14
+15    <application
+15-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:7:5-32:19
+16        android:name="com.makefamousapp.phukienthoitrang.MainApplication"
+16-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:9:7-38
+17        android:allowBackup="false"
+17-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:13:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] C:\Users\admin\.gradle\caches\transforms-3\d9b71328e8ba86dc125344804cb6eb44\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:11:7-41
+20        android:label="@string/app_name"
+20-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:10:7-39
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:12:7-52
+22        android:theme="@style/AppTheme"
+22-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:14:7-38
+23        android:usesCleartextTraffic="true" >
+23-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:8:7-42
+24        <activity
+24-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:15:7-23:17
+25            android:name="com.makefamousapp.phukienthoitrang.SplashActivity"
+25-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:16:9-39
+26            android:label="@string/app_name"
+26-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:18:9-41
+27            android:theme="@style/SplashTheme" >
+27-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:17:9-43
+28            <intent-filter>
+28-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:19:9-22:25
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:20:11-63
+29-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:20:19-60
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:21:11-71
+31-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:21:21-68
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:24:7-31:18
+35            android:name="com.makefamousapp.phukienthoitrang.MainActivity"
+35-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:25:9-37
+36            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+36-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:27:9-86
+37            android:exported="true"
+37-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:30:9-32
+38            android:label="@string/app_name"
+38-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:26:9-41
+39            android:launchMode="singleTask"
+39-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:28:9-40
+40            android:windowSoftInputMode="adjustResize" >
+40-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:29:9-51
+41        </activity>
+42
+43        <provider
+43-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+44            android:name="com.imagepicker.ImagePickerProvider"
+44-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+45            android:authorities="com.makefamousapp.phukienthoitrang.imagepickerprovider"
+45-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+46            android:exported="false"
+46-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+47            android:grantUriPermissions="true" >
+47-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+48            <meta-data
+48-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+49                android:name="android.support.FILE_PROVIDER_PATHS"
+49-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+50                android:resource="@xml/imagepicker_provider_paths" />
+50-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+51        </provider>
+52    </application>
+53
+54</manifest>

@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.makefamousapp.phukienthoitrang"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:5:5-64
+13-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:6:5-80
+14-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.93.0] C:\Users\admin\.gradle\caches\transforms-3\8cf55bdce16a002612f05f30a64a017a\transformed\jetified-flipper-0.93.0\AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.93.0] C:\Users\admin\.gradle\caches\transforms-3\8cf55bdce16a002612f05f30a64a017a\transformed\jetified-flipper-0.93.0\AndroidManifest.xml:16:22-73
+16
+17    <application
+17-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:7:5-32:19
+18        android:name="com.makefamousapp.phukienthoitrang.MainApplication"
+18-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:9:7-38
+19        android:allowBackup="false"
+19-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:13:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.6.0] C:\Users\admin\.gradle\caches\transforms-3\d9b71328e8ba86dc125344804cb6eb44\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:11:7-41
+23        android:label="@string/app_name"
+23-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:10:7-39
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:12:7-52
+25        android:theme="@style/AppTheme"
+25-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:14:7-38
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:8:7-42
+27        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+27-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\debug\AndroidManifest.xml:11:9-86
+27-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\debug\AndroidManifest.xml:11:19-83
+28        <activity
+28-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:15:7-23:17
+29            android:name="com.makefamousapp.phukienthoitrang.SplashActivity"
+29-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:16:9-39
+30            android:label="@string/app_name"
+30-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:18:9-41
+31            android:theme="@style/SplashTheme" >
+31-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:17:9-43
+32            <intent-filter>
+32-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:19:9-22:25
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:20:11-63
+33-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:20:19-60
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:21:11-71
+35-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:21:21-68
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:24:7-31:18
+39            android:name="com.makefamousapp.phukienthoitrang.MainActivity"
+39-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:25:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+40-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:27:9-86
+41            android:exported="true"
+41-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:30:9-32
+42            android:label="@string/app_name"
+42-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:26:9-41
+43            android:launchMode="singleTask"
+43-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:28:9-40
+44            android:windowSoftInputMode="adjustResize" >
+44-->C:\Users\admin\Documents\GitHub\deployed\app\android\app\src\main\AndroidManifest.xml:29:9-51
+45        </activity>
+46
+47        <provider
+47-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+48            android:name="com.imagepicker.ImagePickerProvider"
+48-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
+49            android:authorities="com.makefamousapp.phukienthoitrang.imagepickerprovider"
+49-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-71
+50            android:exported="false"
+50-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+51            android:grantUriPermissions="true" >
+51-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+52            <meta-data
+52-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:70
+53                android:name="android.support.FILE_PROVIDER_PATHS"
+53-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+54                android:resource="@xml/imagepicker_provider_paths" />
+54-->[:react-native-image-picker] C:\Users\admin\Documents\GitHub\deployed\app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-67
+55        </provider>
+56    </application>
+57
+58</manifest>

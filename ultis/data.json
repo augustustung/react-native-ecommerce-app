@@ -1,0 +1,1628 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Hanes Mens asdddddddddddddddddddddddddddddd",
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/91YHIgoKb4L._AC_UX425_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91YHIgoKb4L._AC_UX425_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91YHIgoKb4L._AC_UX425_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 4,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": true,
+            "isMegaSale": false,
+            "recommendFor": [
+                0,
+                23,
+                2
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Weave Jogger",
+            "image": [
+                "https://m.media-amazon.com/images/I/71g7tHQt-sL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/71g7tHQt-sL._AC_UL320_.jpg",
+                "https://m.media-amazon.com/images/I/71g7tHQt-sL._AC_UL320_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 3,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": [
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bcedbb5-c5b1-4cd2-91e6-8c2622e48a8f/air-max-270-react-eng-shoe-T2BR2R.png",
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bcedbb5-c5b1-4cd2-91e6-8c2622e48a8f/air-max-270-react-eng-shoe-T2BR2R.png"
+                    ]
+                },
+                {
+                    "id": 1,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 3,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                },
+                {
+                    "id": 2,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 3,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": [
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bcedbb5-c5b1-4cd2-91e6-8c2622e48a8f/air-max-270-react-eng-shoe-T2BR2R.png"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 4,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": [
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bcedbb5-c5b1-4cd2-91e6-8c2622e48a8f/air-max-270-react-eng-shoe-T2BR2R.png",
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4bcedbb5-c5b1-4cd2-91e6-8c2622e48a8f/air-max-270-react-eng-shoe-T2BR2R.png"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 5,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": true,
+            "isMegaSale": false,
+            "recommendFor": [
+                0,
+                23,
+                2
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Adeliber Dresses for Womens",
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/7177o9jITiL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/7177o9jITiL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/7177o9jITiL._AC_UX466_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 5,
+                    "lastName": "Lawson",
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": true,
+            "isMegaSale": false,
+            "recommendFor": []
+        },
+        {
+            "id": 3,
+            "name": "Nike Air Max 270 React ENG",
+            "image": [
+                "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8a2d0ef2-53ea-4a8c-873d-acd6d7c23f25/air-max-270-react-eng-shoe-7V4Lw2.png",
+                "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8a2d0ef2-53ea-4a8c-873d-acd6d7c23f25/air-max-270-react-eng-shoe-7V4Lw2.png",
+                "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8a2d0ef2-53ea-4a8c-873d-acd6d7c23f25/air-max-270-react-eng-shoe-7V4Lw2.png"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "star": 4,
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": true,
+            "isMegaSale": false,
+            "recommendFor": [
+                0,
+                23,
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Trefoil Tee",
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/51KMhoElQcL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51KMhoElQcL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51KMhoElQcL._AC_UX466_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 4,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": true,
+            "isMegaSale": false,
+            "recommendFor": [
+                0
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Long SleeveWoman",
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/71lKAfQDUoL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71lKAfQDUoL._AC_UX466_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71lKAfQDUoL._AC_UX466_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "star": 4,
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": false,
+            "isFlashSale": false,
+            "isMegaSale": true,
+            "recommendFor": []
+        },
+        {
+            "id": 6,
+            "name": "Eye Cream for Wrinkles",
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/61dwB-2X-6L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61dwB-2X-6L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61dwB-2X-6L._SL1500_.jpg"
+            ],
+            "price": 534.33,
+            "selectSize": [
+                {
+                    "id": 0,
+                    "label": "5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "label": "5.5",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "label": "6",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "7",
+                    "color": [
+                        {
+                            "id": 0,
+                            "quantity": 3,
+                            "color": "#FFC833"
+                        },
+                        {
+                            "id": 1,
+                            "quantity": 3,
+                            "color": "#40BFFF"
+                        },
+                        {
+                            "id": 2,
+                            "quantity": 6,
+                            "color": "#FB7181"
+                        },
+                        {
+                            "id": 3,
+                            "quantity": 7,
+                            "color": "#53D1B6"
+                        },
+                        {
+                            "id": 4,
+                            "quantity": 5,
+                            "color": "#5C61F4"
+                        },
+                        {
+                            "id": 5,
+                            "quantity": 0,
+                            "color": "#223263"
+                        }
+                    ]
+                }
+            ],
+            "specification": {
+                "shown": "Laser Blue/Anthracite/Watermelon/White",
+                "style": "CD0113-400",
+                "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
+            },
+            "reviewProduct": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+                    "star": 3,
+                    "content": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+                    "time": "December 10, 2016",
+                    "image": []
+                }
+            ],
+            "saleOff": 299.43,
+            "isSupperFlashSale": true,
+            "isFlashSale": false,
+            "isMegaSale": true,
+            "recommendFor": [
+                23,
+                2
+            ]
+        }
+    ],
+    "users": [
+        {
+            "id": 0,
+            "email": "aaa@aaa.com",
+            "password": "123456",
+            "fullName": "James Lawson",
+            "address": [
+                {
+                    "id": 0,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "streetAdd1": "AAAAA",
+                    "streetAdd2": "BBB",
+                    "city": "Priscekila",
+                    "country": "United States",
+                    "zipCode": "CKSAD-123",
+                    "detail": "3711 Spring Hill Rd undefined Tallahassee, Nevada 52874",
+                    "phoneNumber": "+99 1234567890"
+                },
+                {
+                    "id": 1,
+                    "firstName": "James",
+                    "lastName": "Lawson",
+                    "streetAdd1": "AAAAA",
+                    "streetAdd2": "BBB",
+                    "city": "Ahmad Khaidir",
+                    "country": "United Kingdom",
+                    "zipCode": "CKSAD-123",
+                    "detail": "3711 Spring Hill Rd undefined Tallahassee, Nevada 52874",
+                    "phoneNumber": "+99 1234567890"
+                }
+            ],
+            "gender": "Male",
+            "birthday": "12-12-2002",
+            "phoneNumber": "09123123",
+            "avatar": "https://tutukit.com/anh-dai-dien-dep-cho-zalo/imager_15602.jpg",
+            "wishlist": [
+                0,
+                2,
+                3,
+                5
+            ],
+            "cart": [
+                {
+                    "id": 1,
+                    "quantity": 2
+                },
+                {
+                    "id": 3,
+                    "quantity": 2
+                }
+            ],
+            "notification": {
+                "offer": [
+                    {
+                        "id": 0,
+                        "title": "The Best Title",
+                        "subtitle": "Culpa cillum consectetur labore nulla nulla magna irure. Id veniam culpa officia aute dolor amet deserunt ex proident commodo",
+                        "notificationTime": "April 30, 2014 1:01 PM"
+                    },
+                    {
+                        "id": 1,
+                        "title": "SUMMER OFFER 98% Cashback",
+                        "subtitle": "Culpa cillum consectetur labore nulla nulla magna irure. Id veniam culpa officia aute dolor",
+                        "notificationTime": "April 30, 2014 1:01 PM"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Special Offer 25% OFF",
+                        "subtitle": "Culpa cillum consectetur labore nulla nulla magna irure. Id veniam culpa officia aute dolor amet deserunt ex proident commodo",
+                        "notificationTime": "April 30, 2014 1:01 PM"
+                    }
+                ],
+                "feed": [
+                    {
+                        "id": 0,
+                        "title": "New Product",
+                        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8a2d0ef2-53ea-4a8c-873d-acd6d7c23f25/air-max-270-react-eng-shoe-7V4Lw2.png",
+                        "subtitle": "Nike Air Zoom Pegasus 36 Miami - Special For your Activity",
+                        "notificationTime": "June 3, 2015 5:06 PM",
+                        "productId": 3
+                    }
+                ],
+                "activity": [
+                    {
+                        "id": 0,
+                        "title": "Transaction Nike Air Zoom Product",
+                        "subtitle": "Culpa cillum consectetur labore nulla nulla magna irure. Id veniam culpa officia aute dolor amet deserunt ex proident commodo",
+                        "notificationTime": "April 30, 2014 1:01 PM"
+                    }
+                ]
+            },
+            "payment": {
+                "credit": [
+                    {
+                        "id": 0,
+                        "cardNumber": "6326-9124-8124-9875",
+                        "cardHolder": "Lailyfa Febrina",
+                        "cardSave": "19/2042"
+                    },
+                    {
+                        "id": 1,
+                        "cardNumber": "2222-2222-2222-2222",
+                        "cardHolder": "asdasdasdasdsad",
+                        "cardSave": "19/4042"
+                    }
+                ],
+                "paypal": [
+                    {
+                        "id": 0,
+                        "cardNumber": "6326-9124-8124-9875",
+                        "cardHolder": "Lailyfa Febrina",
+                        "cardSave": "19/2042"
+                    }
+                ],
+                "bank": [
+                    {
+                        "id": 0,
+                        "cardNumber": "6326-9124-8124-9875",
+                        "cardHolder": "Lailyfa Febrina",
+                        "cardSave": "19/2042"
+                    }
+                ]
+            },
+            "order": [
+                "LQNSU346JK"
+            ]
+        }
+    ],
+    "CuponCode": [
+        "asdasdasdas",
+        "asdasdasdasdasd",
+        "4556934dgnjksddsvb",
+        "adsfsdihnmiodnfhinkhdnjkhlgf",
+        "123456"
+    ],
+    "Allcode": {
+        "SORT_BY": [
+            {
+                "id": 0,
+                "title": "Best Match"
+            },
+            {
+                "id": 1,
+                "title": "Time: ending soonest"
+            },
+            {
+                "id": 3,
+                "title": "Time: newly listed"
+            },
+            {
+                "id": 3,
+                "title": "Price + Shipping: lowest first"
+            },
+            {
+                "id": 4,
+                "title": "Price + Shipping: highest first"
+            },
+            {
+                "id": 5,
+                "title": "Distance: nearest first"
+            }
+        ],
+        "Condition": [
+            {
+                "id": 0,
+                "title": "New"
+            },
+            {
+                "id": 1,
+                "title": "Used"
+            },
+            {
+                "id": 2,
+                "title": "Not Specified"
+            }
+        ],
+        "BUYING_FORMAT": [
+            {
+                "id": 0,
+                "title": "All Listings"
+            },
+            {
+                "id": 1,
+                "title": "Accepts Offers"
+            },
+            {
+                "id": 2,
+                "title": "Auction"
+            },
+            {
+                "id": 3,
+                "title": "Buy It Now"
+            },
+            {
+                "id": 4,
+                "title": "Classified Ads"
+            }
+        ],
+        "ITEM_LOCATION": [
+            {
+                "id": 0,
+                "title": "US Only"
+            },
+            {
+                "id": 1,
+                "title": "North America"
+            },
+            {
+                "id": 2,
+                "title": "Europe"
+            },
+            {
+                "id": 3,
+                "title": "Asia"
+            }
+        ],
+        "SHOW_ONLY": [
+            {
+                "id": 0,
+                "title": "Free Returns"
+            },
+            {
+                "id": 1,
+                "title": "Returns Accepted"
+            },
+            {
+                "id": 2,
+                "title": "Authorized Seller"
+            },
+            {
+                "id": 3,
+                "title": "Completed Items"
+            },
+            {
+                "id": 4,
+                "title": "Sold Items"
+            },
+            {
+                "id": 5,
+                "title": "Deals & Savings"
+            },
+            {
+                "id": 6,
+                "title": "Sale Items"
+            },
+            {
+                "id": 7,
+                "title": "Listed as Lots"
+            },
+            {
+                "id": 8,
+                "title": "Search in Description"
+            },
+            {
+                "id": 9,
+                "title": "Benefits charity"
+            },
+            {
+                "id": 10,
+                "title": "Authenticity Verified"
+            }
+        ],
+        "SHIPPING": [
+            {
+                "id": 0,
+                "title": "Packing"
+            },
+            {
+                "id": 1,
+                "title": "Shipping"
+            },
+            {
+                "id": 2,
+                "title": "Arriving"
+            },
+            {
+                "id": 3,
+                "title": "Success"
+            }
+        ],
+        "COUNTRY": [
+            {
+                "id": 0,
+                "name": "United States",
+                "key": "US"
+            },
+            {
+                "id": 1,
+                "name": "United Kingdom",
+                "key": "UK"
+            }
+        ]
+    },
+    "Orders": [
+        {
+            "id": "LQNSU346JK",
+            "status": 2,
+            "productId": [
+                2,
+                4
+            ],
+            "orderAt": "August 1, 2017",
+            "dateShipping": "January 16, 2015",
+            "shipping": "POS Reggular",
+            "resi": "000192848573",
+            "address": "2727 Lakeshore Rd undefined Nampa, Tennessee 78410",
+            "sumProduct": 598.86,
+            "shippingFee": 40.00,
+            "charge": 128.00,
+            "total": 766.86
+        }
+    ]
+}

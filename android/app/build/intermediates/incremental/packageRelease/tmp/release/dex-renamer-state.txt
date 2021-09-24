@@ -1,0 +1,4 @@
+#Thu Sep 23 15:27:20 ICT 2021
+base.0=C\:\\Users\\admin\\Documents\\GitHub\\deployed\\app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

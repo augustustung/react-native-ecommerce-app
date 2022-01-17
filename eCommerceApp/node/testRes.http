@@ -1,0 +1,20 @@
+GET http://localhost:8080/users/api/getAllcode?type=GENDER
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNAYy5jb20iLCJpYXQiOjE2MzE5NTkxNzUsImV4cCI6MTYzMTk1OTIwNX0.h0-Fs4_zozfJuVemEvfmAxLJP8tErMwX22ndDx0ZctQ
+
+###
+POST http://localhost:8080/refreshToken
+Content-Type: application/json
+
+{
+    "userId": "6145b4dfbb567db6d70b83dc",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNAYy5jb20iLCJpYXQiOjE2MzE5NTkxMjl9.A43RyhiTUlLsHPigbmz2xyQS5hbfaggOwO3G8TtU7C8"
+}
+
+###
+POST http://localhost:8080/signIn
+Content-Type: application/json
+
+{
+    "email": "c@c.com",
+    "password": "123123"
+}

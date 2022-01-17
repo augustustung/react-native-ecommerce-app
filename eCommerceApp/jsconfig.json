@@ -1,0 +1,30 @@
+// {
+//     "compilerOptions": {
+//         "target": "ES6",
+//         "module": "commonjs",
+//         "allowSyntheticDefaultImports": true,
+//         "checkJs": true,
+//         "jsx": "react-native",
+//         "baseUrl": ".",
+//         "paths": {
+//             "@components/*": [
+//                 "components/*"
+//             ],
+//             "@ultis/*": [
+//                 "ultis/*"
+//             ],
+//             "@redux/*": [
+//                 "./redux/*"
+//             ],
+//             "@image/*": [
+//                 "./image/*"
+//             ],
+//             "@services/*": [
+//                 "./services/*"
+//             ]
+//         }
+//     },
+//     "exclude": [
+//         "node_modules"
+//     ]
+// }
